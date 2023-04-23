@@ -1,13 +1,11 @@
 
 # Project Title
 
-Backend API with NodeJs and ExpressJs
-
-
+Build Backend API with NodeJs and ExpressJs
 
 ## Tech Stack
 
-**Server:** Node, Express
+**Server:** Node, Express, Thunder Client
 
 
 ## Installation
