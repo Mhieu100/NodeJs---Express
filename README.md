@@ -5,7 +5,7 @@ Build Backend API with NodeJs and ExpressJs
 
 ## Tech Stack
 
-**Server:** Node, Express, Thunder Client
+**Server:** Node, Express, Thunder Client, MongoDB
 
 
 ## Installation
