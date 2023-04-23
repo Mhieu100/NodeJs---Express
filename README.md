@@ -14,13 +14,13 @@ Install project with npm
 
 Package : 
 ```bash
-  # npm init
-  # npm install -D nodemon
-  # npm i dotenv
-  # npm i express-async-handler
-  # npm i mongoose
-  # npm i bcrypt
-  # npm i jsonwebtoken
+   npm init
+   npm install -D nodemon
+   npm i dotenv
+   npm i express-async-handler
+   npm i mongoose
+   npm i bcrypt
+   npm i jsonwebtoken
 ```
 Config :  
 ```bash
